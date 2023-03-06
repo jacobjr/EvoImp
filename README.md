@@ -31,9 +31,9 @@ The massive amount of available data has aroused the interest of companies and a
 ------------------------------------------
 ~~~
 
-- Datasets      --> It contains the databases used in the experiments presented in the article.
-- Code          --> It contains the Java code of EvoImp and the libraries used.
-- Supp          --> It has additional data cited in the article, such as baseline tests.
+- datasets      --> It contains the databases used in the experiments presented in the article.
+- src          --> It contains the Java code of EvoImp and the libraries used.
+- supp          --> It has additional data cited in the article, such as baseline tests.
   
 ~~~
   
