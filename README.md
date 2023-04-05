@@ -1,4 +1,4 @@
-# EvoImp
+# GAMultImp
 Multiple Imputation of Multi-label Classification Data With a Genetic Algorithm
 
 ***
@@ -22,7 +22,7 @@ Multiple Imputation of Multi-label Classification Data With a Genetic Algorithm
 
 # Abstract
 
-The massive amount of available data has aroused the interest of companies and academia in exploiting these data to gain competitive advantages. So, collecting high-quality data is a prerequisite for achieving this goal. In this context, missing data is a problem that deserves attention due to its prevalence, as well as most data analysis techniques cannot deal with it, harming the results' reliability. The accuracy and other metrics in the classification tasks tend to decrease due to missing data. Despite its impact, few studies have studied Multi-Label Classifications (MLC) with missing data. MLC is a supervised learning problem in which an instance can be associated with multiple labels, unlike traditional classification (mono-label), which associates an example with a single label. Multi-label learning is considered an emerging and promising research topic because of the growing number of new applications, such as the semantic classification of videos and images, music categorization, and medical diagnostics. One of the most usual treatment methods is data imputation, which seeks plausible values to fill in the missing ones. However, only some studies have addressed the missing data treatment in various contexts, including the MLC. In this scenario, we propose a novel imputation method based on genetic algorithm for optimizing multiple data imputations. We applied the proposed method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios. The method, called EvoImp, was compared with other state-of-the-art imputation strategies. The results proved that the proposed method outperformed the baseline ones in all the scenarios. Moreover, it can be considered superior to the others in quantitative terms.
+The massive amount of available data has aroused the interest of companies and academia in exploiting these data to gain competitive advantages. So, collecting high-quality data is a prerequisite for achieving this goal. In this context, missing data is a problem that deserves attention due to its prevalence, as well as most data analysis techniques cannot deal with it, harming the results' reliability. The accuracy and other metrics in the classification tasks tend to decrease due to missing data. Despite its impact, few studies have studied Multi-Label Classifications (MLC) with missing data. MLC is a supervised learning problem in which an instance can be associated with multiple labels, unlike traditional classification (mono-label), which associates an example with a single label. Multi-label learning is considered an emerging and promising research topic because of the growing number of new applications, such as the semantic classification of videos and images, music categorization, and medical diagnostics. One of the most usual treatment methods is data imputation, which seeks plausible values to fill in the missing ones. However, only some studies have addressed the missing data treatment in various contexts, including the MLC. In this scenario, we propose a novel imputation method based on genetic algorithm for optimizing multiple data imputations. We applied the proposed method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios. The method, called GAMultImp, was compared with other state-of-the-art imputation strategies. The results proved that the proposed method outperformed the baseline ones in all the scenarios. Moreover, it can be considered superior to the others in quantitative terms.
 
 ~~~
 
@@ -32,7 +32,7 @@ The massive amount of available data has aroused the interest of companies and a
 ~~~
 
 - datasets      --> It contains the databases used in the experiments presented in the article.
-- src          --> It contains the Java code of EvoImp and the libraries used.
+- src          --> It contains the Java code of GAMultImp and the libraries used.
 - supp          --> It has additional data cited in the article, such as baseline tests.
   
 ~~~
