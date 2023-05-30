@@ -3,7 +3,7 @@ Multiple Imputation of Multi-label Classification Data With a Genetic Algorithm
 
 ***
 #### **About the paper**
-> Article submitted to the journal <a href="https://ieeeaccess.ieee.org/">**IEEE Access**</a>, in the year 2023. This work proposed an method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios.
+> Article submitted to the journal XXXXXX, in the year 2023. This work proposed an method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios.
 
 
 #### **Authors (original paper)**
