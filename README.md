@@ -1,4 +1,4 @@
-# GAMultImp
+# EvoImp
 Multiple Imputation of Multi-label Classification Data With a Genetic Algorithm
 
 ***
@@ -22,7 +22,7 @@ Multiple Imputation of Multi-label Classification Data With a Genetic Algorithm
 
 # Abstract
 
-The massive amount of available data has aroused the interest of companies and academia in exploiting these data to gain competitive advantages. In this context, missing data is a problem that deserves attention due to its prevalence, and most data analysis techniques cannot deal with it, harming the results' reliability. Despite the relevance of this problem, only a few studies investigating Multilabel Classifications (MLC) with missing data are observed. Multilabel learning is considered an emerging and promising research topic because of the growing number of new applications, such as the semantic classification of videos and images, music categorization, and medical diagnostics. One of the most usual missing data treatment methods is data imputation, which seeks plausible values to fill in the missing ones. In this scenario, we propose a novel imputation method based on a multi-objective genetic algorithm for optimizing multiple data imputations called EvoImp. We applied the proposed method in multilabel learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios. The method was compared with other state-of-the-art imputation strategies. The results proved that the proposed method outperformed the baseline in all the scenarios, representing a feasible solution to missing data treatment for multilabel learning. Following open-science principles, the source codes and datasets are publicly available in a GitHub repository.
+Missing data is a prevalent problem that requires attention, as most data analysis techniques are unable to handle it. This is particularly critical in Multi-Label Classification (MLC), in which only a few studies have investigated missing data in this application domain. MLC differs from Single-Label Classification (SLC) by allowing an instance to be associated with multiple classes. Movie classification is a didactic example since it can be ``drama'' and ``bibliography'' simultaneously. One of the most usual missing data treatment methods is data imputation, which seeks plausible values to fill in the missing ones. In this scenario, we propose a novel imputation method based on a multi-objective genetic algorithm for optimizing multiple data imputations called Multiple Imputation of Multi-label Classification data with a genetic algorithm, or simply EvoImp. We applied the proposed method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios. The method was compared with other state-of-the-art imputation strategies, such as K-Means Imputation (KMI) and weighted K-Nearest Neighbors Imputation (WKNNI). The results proved that the proposed method outperformed the baseline in all the scenarios by achieving the best evaluation measures considering the Exact Match, Accuracy, and Hamming Loss. The superior results were constant in different dataset domains and sizes, demonstrating the EvoImp robustness. Thus, EvoImp represents a feasible solution to missing data treatment for multi-label learning.
 
 ~~~
 
@@ -31,9 +31,9 @@ The massive amount of available data has aroused the interest of companies and a
 ------------------------------------------
 ~~~
 
-- datasets      --> It contains the databases used in the experiments presented in the article.
-- src          --> It contains the Java code of GAMultImp and the libraries used.
-- supp          --> It has additional data cited in the article, such as baseline tests.
+- datasets      --> This folder contains the databases used in the experiments presented in the article.
+- src          --> This folder contains the Java code of GAMultImp and the libraries used.
+- supp          --> This folder contains additional data cited in the article, such as baseline tests.
   
 ~~~
   
