@@ -37,10 +37,8 @@ Antonio F. L. Jacob Jr., Fabrício A. do Carmo, Ádamo L. de Santana, Ewaldo San
 Directory description
 ~~~
 
-- src          --> This folder contains the Java code of GAMultImp and the libraries used.
-- supp          --> This folder contains additional data cited in the article, such as baseline tests.
+- dist         --> Includes a distribution version (.jar) and an example along with the folder structure required to run 
+- src          --> Contains the Java code of GAMultImp and the libraries used.
+- supp         --> Presents supplementary files commented in the article, such as the complexity of the method, baseline tests, etc.
   
 ~~~
-  
-  
----
