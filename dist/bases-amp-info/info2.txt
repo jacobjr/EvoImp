@@ -1,0 +1,188 @@
+
+    emotions ||   VA(%): 0.05   ||    QuantVA:    2312   || quantAtributos: 78 || inst: 593  ||  instComVA: 578  
+    emotions ||   VA(%): 0.1   ||    QuantVA:    4625   || quantAtributos: 78 || inst: 593  ||  instComVA: 593  
+    emotions ||   VA(%): 0.15   ||    QuantVA:    6938   || quantAtributos: 78 || inst: 593  ||  instComVA: 593  
+    emotions ||   VA(%): 0.2   ||    QuantVA:    9250   || quantAtributos: 78 || inst: 593  ||  instComVA: 593  
+    emotions ||   VA(%): 0.25   ||    QuantVA:    11563   || quantAtributos: 78 || inst: 593  ||  instComVA: 593  
+    emotions ||   VA(%): 0.3   ||    QuantVA:    13876   || quantAtributos: 78 || inst: 593  ||  instComVA: 593  
+    
+
+    flags ||   VA(%): 0.05   ||    QuantVA:    252   || quantAtributos: 26 || inst: 194  ||  instComVA: 141  
+    flags ||   VA(%): 0.1   ||    QuantVA:    504   || quantAtributos: 26 || inst: 194  ||  instComVA: 183  
+    flags ||   VA(%): 0.15   ||    QuantVA:    756   || quantAtributos: 26 || inst: 194  ||  instComVA: 188  
+    flags ||   VA(%): 0.2   ||    QuantVA:    1008   || quantAtributos: 26 || inst: 194  ||  instComVA: 194  
+    flags ||   VA(%): 0.25   ||    QuantVA:    1261   || quantAtributos: 26 || inst: 194  ||  instComVA: 194  
+    flags ||   VA(%): 0.3   ||    QuantVA:    1513   || quantAtributos: 26 || inst: 194  ||  instComVA: 194  
+    
+
+    scene ||   VA(%): 0.05   ||    QuantVA:    36105   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    scene ||   VA(%): 0.1   ||    QuantVA:    72210   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    scene ||   VA(%): 0.15   ||    QuantVA:    108315   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    scene ||   VA(%): 0.2   ||    QuantVA:    144420   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    scene ||   VA(%): 0.25   ||    QuantVA:    180525   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    scene ||   VA(%): 0.3   ||    QuantVA:    216630   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+   
+
+     yeast ||   VA(%): 0.05   ||    QuantVA:    14139   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2412  
+    yeast ||   VA(%): 0.1   ||    QuantVA:    28278   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2417  
+    yeast ||   VA(%): 0.15   ||    QuantVA:    42418   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2417  
+    yeast ||   VA(%): 0.2   ||    QuantVA:    56557   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2417  
+    yeast ||   VA(%): 0.25   ||    QuantVA:    70697   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2417  
+    yeast ||   VA(%): 0.3   ||    QuantVA:    84836   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2417  
+    
+
+    birds ||   VA(%): 0.03   ||    QuantVA:    2695   || quantAtributos: 279 || inst: 322  ||  instComVA: 322  
+    emotions ||   VA(%): 0.03   ||    QuantVA:    1387   || quantAtributos: 78 || inst: 593  ||  instComVA: 548  
+    flags ||   VA(%): 0.03   ||    QuantVA:    151   || quantAtributos: 26 || inst: 194  ||  instComVA: 105  
+    scene ||   VA(%): 0.03   ||    QuantVA:    21663   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    yeast ||   VA(%): 0.03   ||    QuantVA:    8483   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2350  
+   
+
+
+    CAL500 ||   VA(%): 0.03   ||    QuantVA:    3644   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    CAL500 ||   VA(%): 0.05   ||    QuantVA:    6074   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    CAL500 ||   VA(%): 0.1   ||    QuantVA:    12148   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    CAL500 ||   VA(%): 0.15   ||    QuantVA:    18222   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    CAL500 ||   VA(%): 0.2   ||    QuantVA:    24296   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    CAL500 ||   VA(%): 0.25   ||    QuantVA:    30371   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    CAL500 ||   VA(%): 0.3   ||    QuantVA:    36445   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    
+ 
+
+    birds ||   VA(%): 0.03   ||    QuantVA:    5398   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+   
+    birds ||   VA(%): 0.05   ||    QuantVA:    8997   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+    birds ||   VA(%): 0.1   ||    QuantVA:    17995   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+    birds ||   VA(%): 0.15   ||    QuantVA:    26993   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+    birds ||   VA(%): 0.2   ||    QuantVA:    35991   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+    birds ||   VA(%): 0.25   ||    QuantVA:    44988   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+    birds ||   VA(%): 0.3   ||    QuantVA:    53986   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+
+================================================================================================================================
+    car ||   VA(%): 0.05   ||    QuantVA:    604   || quantAtributos: 7 || inst: 1728  ||  instComVA: 526  
+    car ||   VA(%): 0.1   ||    QuantVA:    1209   || quantAtributos: 7 || inst: 1728  ||  instComVA: 896  
+    car ||   VA(%): 0.15   ||    QuantVA:    1814   || quantAtributos: 7 || inst: 1728  ||  instComVA: 1155  
+    car ||   VA(%): 0.2   ||    QuantVA:    2419   || quantAtributos: 7 || inst: 1728  ||  instComVA: 1347  
+    car ||   VA(%): 0.25   ||    QuantVA:    3024   || quantAtributos: 7 || inst: 1728  ||  instComVA: 1485  
+    car ||   VA(%): 0.3   ||    QuantVA:    3628   || quantAtributos: 7 || inst: 1728  ||  instComVA: 1584  
+    pima_diabetes ||   VA(%): 0.05   ||    QuantVA:    345   || quantAtributos: 9 || inst: 768  ||  instComVA: 280  
+    pima_diabetes ||   VA(%): 0.1   ||    QuantVA:    691   || quantAtributos: 9 || inst: 768  ||  instComVA: 463  
+    pima_diabetes ||   VA(%): 0.15   ||    QuantVA:    1036   || quantAtributos: 9 || inst: 768  ||  instComVA: 599  
+    pima_diabetes ||   VA(%): 0.2   ||    QuantVA:    1382   || quantAtributos: 9 || inst: 768  ||  instComVA: 650  
+    pima_diabetes ||   VA(%): 0.25   ||    QuantVA:    1728   || quantAtributos: 9 || inst: 768  ||  instComVA: 712  
+    pima_diabetes ||   VA(%): 0.3   ||    QuantVA:    2073   || quantAtributos: 9 || inst: 768  ||  instComVA: 730  
+    heart-statlog ||   VA(%): 0.05   ||    QuantVA:    189   || quantAtributos: 14 || inst: 270  ||  instComVA: 141  
+    heart-statlog ||   VA(%): 0.1   ||    QuantVA:    378   || quantAtributos: 14 || inst: 270  ||  instComVA: 210  
+    heart-statlog ||   VA(%): 0.15   ||    QuantVA:    567   || quantAtributos: 14 || inst: 270  ||  instComVA: 239  
+    heart-statlog ||   VA(%): 0.2   ||    QuantVA:    756   || quantAtributos: 14 || inst: 270  ||  instComVA: 259  
+    heart-statlog ||   VA(%): 0.25   ||    QuantVA:    945   || quantAtributos: 14 || inst: 270  ||  instComVA: 260  
+    heart-statlog ||   VA(%): 0.3   ||    QuantVA:    1134   || quantAtributos: 14 || inst: 270  ||  instComVA: 268  
+    housing ||   VA(%): 0.05   ||    QuantVA:    354   || quantAtributos: 14 || inst: 506  ||  instComVA: 264  
+    housing ||   VA(%): 0.1   ||    QuantVA:    708   || quantAtributos: 14 || inst: 506  ||  instComVA: 381  
+    housing ||   VA(%): 0.15   ||    QuantVA:    1062   || quantAtributos: 14 || inst: 506  ||  instComVA: 455  
+    housing ||   VA(%): 0.2   ||    QuantVA:    1416   || quantAtributos: 14 || inst: 506  ||  instComVA: 486  
+    housing ||   VA(%): 0.25   ||    QuantVA:    1771   || quantAtributos: 14 || inst: 506  ||  instComVA: 493  
+    housing ||   VA(%): 0.3   ||    QuantVA:    2125   || quantAtributos: 14 || inst: 506  ||  instComVA: 501  
+    machine_cpu ||   VA(%): 0.05   ||    QuantVA:    73   || quantAtributos: 7 || inst: 209  ||  instComVA: 63  
+    machine_cpu ||   VA(%): 0.1   ||    QuantVA:    146   || quantAtributos: 7 || inst: 209  ||  instComVA: 112  
+    machine_cpu ||   VA(%): 0.15   ||    QuantVA:    219   || quantAtributos: 7 || inst: 209  ||  instComVA: 142  
+    machine_cpu ||   VA(%): 0.2   ||    QuantVA:    292   || quantAtributos: 7 || inst: 209  ||  instComVA: 168  
+    machine_cpu ||   VA(%): 0.25   ||    QuantVA:    365   || quantAtributos: 7 || inst: 209  ||  instComVA: 181  
+    machine_cpu ||   VA(%): 0.3   ||    QuantVA:    438   || quantAtributos: 7 || inst: 209  ||  instComVA: 193  
+       audiology ||   VA(%): 0.05   ||    QuantVA:    791   || quantAtributos: 70 || inst: 226  ||  instComVA: 226  
+    audiology ||   VA(%): 0.1   ||    QuantVA:    1582   || quantAtributos: 70 || inst: 226  ||  instComVA: 226  
+    audiology ||   VA(%): 0.15   ||    QuantVA:    2373   || quantAtributos: 70 || inst: 226  ||  instComVA: 226  
+    audiology ||   VA(%): 0.2   ||    QuantVA:    3164   || quantAtributos: 70 || inst: 226  ||  instComVA: 226  
+    audiology ||   VA(%): 0.25   ||    QuantVA:    3955   || quantAtributos: 70 || inst: 226  ||  instComVA: 226  
+    audiology ||   VA(%): 0.3   ||    QuantVA:    4746   || quantAtributos: 70 || inst: 226  ||  instComVA: 226  
+    autos ||   VA(%): 0.05   ||    QuantVA:    266   || quantAtributos: 26 || inst: 205  ||  instComVA: 164  
+    autos ||   VA(%): 0.1   ||    QuantVA:    533   || quantAtributos: 26 || inst: 205  ||  instComVA: 193  
+    autos ||   VA(%): 0.15   ||    QuantVA:    799   || quantAtributos: 26 || inst: 205  ||  instComVA: 202  
+    autos ||   VA(%): 0.2   ||    QuantVA:    1066   || quantAtributos: 26 || inst: 205  ||  instComVA: 205  
+    autos ||   VA(%): 0.25   ||    QuantVA:    1332   || quantAtributos: 26 || inst: 205  ||  instComVA: 205  
+    autos ||   VA(%): 0.3   ||    QuantVA:    1599   || quantAtributos: 26 || inst: 205  ||  instComVA: 205  
+    breast-cancer ||   VA(%): 0.05   ||    QuantVA:    143   || quantAtributos: 10 || inst: 286  ||  instComVA: 122  
+    breast-cancer ||   VA(%): 0.1   ||    QuantVA:    286   || quantAtributos: 10 || inst: 286  ||  instComVA: 192  
+    breast-cancer ||   VA(%): 0.15   ||    QuantVA:    429   || quantAtributos: 10 || inst: 286  ||  instComVA: 232  
+    breast-cancer ||   VA(%): 0.2   ||    QuantVA:    572   || quantAtributos: 10 || inst: 286  ||  instComVA: 254  
+    breast-cancer ||   VA(%): 0.25   ||    QuantVA:    715   || quantAtributos: 10 || inst: 286  ||  instComVA: 269  
+    breast-cancer ||   VA(%): 0.3   ||    QuantVA:    858   || quantAtributos: 10 || inst: 286  ||  instComVA: 281  
+    cleveland ||   VA(%): 0.05   ||    QuantVA:    212   || quantAtributos: 14 || inst: 303  ||  instComVA: 159  
+    cleveland ||   VA(%): 0.1   ||    QuantVA:    424   || quantAtributos: 14 || inst: 303  ||  instComVA: 232  
+    cleveland ||   VA(%): 0.15   ||    QuantVA:    636   || quantAtributos: 14 || inst: 303  ||  instComVA: 273  
+    cleveland ||   VA(%): 0.2   ||    QuantVA:    848   || quantAtributos: 14 || inst: 303  ||  instComVA: 285  
+    cleveland ||   VA(%): 0.25   ||    QuantVA:    1060   || quantAtributos: 14 || inst: 303  ||  instComVA: 300  
+    cleveland ||   VA(%): 0.3   ||    QuantVA:    1272   || quantAtributos: 14 || inst: 303  ||  instComVA: 302  
+    credit ||   VA(%): 0.05   ||    QuantVA:    552   || quantAtributos: 16 || inst: 690  ||  instComVA: 419  
+    credit ||   VA(%): 0.1   ||    QuantVA:    1104   || quantAtributos: 16 || inst: 690  ||  instComVA: 569  
+    credit ||   VA(%): 0.15   ||    QuantVA:    1656   || quantAtributos: 16 || inst: 690  ||  instComVA: 649  
+    credit ||   VA(%): 0.2   ||    QuantVA:    2208   || quantAtributos: 16 || inst: 690  ||  instComVA: 662  
+    credit ||   VA(%): 0.25   ||    QuantVA:    2760   || quantAtributos: 16 || inst: 690  ||  instComVA: 687  
+    credit ||   VA(%): 0.3   ||    QuantVA:    3312   || quantAtributos: 16 || inst: 690  ||  instComVA: 688  
+    dermatology ||   VA(%): 0.05   ||    QuantVA:    640   || quantAtributos: 35 || inst: 366  ||  instComVA: 310  
+    dermatology ||   VA(%): 0.1   ||    QuantVA:    1281   || quantAtributos: 35 || inst: 366  ||  instComVA: 360  
+    dermatology ||   VA(%): 0.15   ||    QuantVA:    1921   || quantAtributos: 35 || inst: 366  ||  instComVA: 365  
+    dermatology ||   VA(%): 0.2   ||    QuantVA:    2562   || quantAtributos: 35 || inst: 366  ||  instComVA: 366  
+    dermatology ||   VA(%): 0.25   ||    QuantVA:    3202   || quantAtributos: 35 || inst: 366  ||  instComVA: 366  
+    dermatology ||   VA(%): 0.3   ||    QuantVA:    3843   || quantAtributos: 35 || inst: 366  ||  instComVA: 366  
+    lung-cancer ||   VA(%): 0.05   ||    QuantVA:    91   || quantAtributos: 57 || inst: 32  ||  instComVA: 28  
+    lung-cancer ||   VA(%): 0.1   ||    QuantVA:    182   || quantAtributos: 57 || inst: 32  ||  instComVA: 32  
+    lung-cancer ||   VA(%): 0.15   ||    QuantVA:    273   || quantAtributos: 57 || inst: 32  ||  instComVA: 32  
+    lung-cancer ||   VA(%): 0.2   ||    QuantVA:    364   || quantAtributos: 57 || inst: 32  ||  instComVA: 32  
+    lung-cancer ||   VA(%): 0.25   ||    QuantVA:    456   || quantAtributos: 57 || inst: 32  ||  instComVA: 32  
+    lung-cancer ||   VA(%): 0.3   ||    QuantVA:    547   || quantAtributos: 57 || inst: 32  ||  instComVA: 32  
+    mammographic ||   VA(%): 0.05   ||    QuantVA:    288   || quantAtributos: 6 || inst: 961  ||  instComVA: 342  
+    mammographic ||   VA(%): 0.1   ||    QuantVA:    576   || quantAtributos: 6 || inst: 961  ||  instComVA: 507  
+    mammographic ||   VA(%): 0.15   ||    QuantVA:    864   || quantAtributos: 6 || inst: 961  ||  instComVA: 652  
+    mammographic ||   VA(%): 0.2   ||    QuantVA:    1153   || quantAtributos: 6 || inst: 961  ||  instComVA: 754  
+    mammographic ||   VA(%): 0.25   ||    QuantVA:    1441   || quantAtributos: 6 || inst: 961  ||  instComVA: 817  
+    mammographic ||   VA(%): 0.3   ||    QuantVA:    1729   || quantAtributos: 6 || inst: 961  ||  instComVA: 838  
+    post-operative ||   VA(%): 0.05   ||    QuantVA:    40   || quantAtributos: 9 || inst: 90  ||  instComVA: 35  
+    post-operative ||   VA(%): 0.1   ||    QuantVA:    81   || quantAtributos: 9 || inst: 90  ||  instComVA: 56  
+    post-operative ||   VA(%): 0.15   ||    QuantVA:    121   || quantAtributos: 9 || inst: 90  ||  instComVA: 70  
+    post-operative ||   VA(%): 0.2   ||    QuantVA:    162   || quantAtributos: 9 || inst: 90  ||  instComVA: 79  
+    post-operative ||   VA(%): 0.25   ||    QuantVA:    202   || quantAtributos: 9 || inst: 90  ||  instComVA: 82  
+    post-operative ||   VA(%): 0.3   ||    QuantVA:    243   || quantAtributos: 9 || inst: 90  ||  instComVA: 89  
+    primary-tumor ||   VA(%): 0.05   ||    QuantVA:    305   || quantAtributos: 18 || inst: 339  ||  instComVA: 278  
+    primary-tumor ||   VA(%): 0.1   ||    QuantVA:    610   || quantAtributos: 18 || inst: 339  ||  instComVA: 309  
+    primary-tumor ||   VA(%): 0.15   ||    QuantVA:    915   || quantAtributos: 18 || inst: 339  ||  instComVA: 332  
+    primary-tumor ||   VA(%): 0.2   ||    QuantVA:    1220   || quantAtributos: 18 || inst: 339  ||  instComVA: 337  
+    primary-tumor ||   VA(%): 0.25   ||    QuantVA:    1525   || quantAtributos: 18 || inst: 339  ||  instComVA: 338  
+    primary-tumor ||   VA(%): 0.3   ||    QuantVA:    1830   || quantAtributos: 18 || inst: 339  ||  instComVA: 338  
+    wisconsin ||   VA(%): 0.05   ||    QuantVA:    349   || quantAtributos: 10 || inst: 699  ||  instComVA: 286  
+    wisconsin ||   VA(%): 0.1   ||    QuantVA:    699   || quantAtributos: 10 || inst: 699  ||  instComVA: 457  
+    wisconsin ||   VA(%): 0.15   ||    QuantVA:    1048   || quantAtributos: 10 || inst: 699  ||  instComVA: 570  
+    wisconsin ||   VA(%): 0.2   ||    QuantVA:    1398   || quantAtributos: 10 || inst: 699  ||  instComVA: 633  
+    wisconsin ||   VA(%): 0.25   ||    QuantVA:    1747   || quantAtributos: 10 || inst: 699  ||  instComVA: 661  
+    wisconsin ||   VA(%): 0.3   ||    QuantVA:    2097   || quantAtributos: 10 || inst: 699  ||  instComVA: 676  
+    birds ||   VA(%): 0.1   ||    QuantVA:    17995   || quantAtributos: 279 || inst: 645  ||  instComVA: 645  
+    CAL500 ||   VA(%): 0.1   ||    QuantVA:    12148   || quantAtributos: 242 || inst: 502  ||  instComVA: 502  
+    emotions ||   VA(%): 0.1   ||    QuantVA:    4625   || quantAtributos: 78 || inst: 593  ||  instComVA: 593  
+    flags ||   VA(%): 0.1   ||    QuantVA:    504   || quantAtributos: 26 || inst: 194  ||  instComVA: 181  
+    scene ||   VA(%): 0.1   ||    QuantVA:    72210   || quantAtributos: 300 || inst: 2407  ||  instComVA: 2407  
+    yeast ||   VA(%): 0.1   ||    QuantVA:    28278   || quantAtributos: 117 || inst: 2417  ||  instComVA: 2417  
+     ||   VA(%): 0.1   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+    vehicle ||   VA(%): 0.1   ||    QuantVA:    1607   || quantAtributos: 19 || inst: 846  ||  instComVA: 729  
+    vehicle ||   VA(%): 0.1   ||    QuantVA:    1607   || quantAtributos: 19 || inst: 846  ||  instComVA: 721  
+    vehicle ||   VA(%): 0.1   ||    QuantVA:    1607   || quantAtributos: 19 || inst: 846  ||  instComVA: 727  
+    Corel5k ||   VA(%): 0.1   ||    QuantVA:    436500   || quantAtributos: 873 || inst: 5000  ||  instComVA: 5000  
+    Corel5k ||   VA(%): 0.1   ||    QuantVA:    436500   || quantAtributos: 873 || inst: 5000  ||  instComVA: 5000  
+    'Enron: -C 53' ||   VA(%): 0.1   ||    QuantVA:    9361   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1699  
+    'Enron: -C 53' ||   VA(%): 0.1   ||    QuantVA:    9361   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1697  
+    Enron ||   VA(%): 0.1   ||    QuantVA:    9361   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1696  
+    Enron ||   VA(%): 0.05   ||    QuantVA:    4680   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1591  
+    Enron ||   VA(%): 0.1   ||    QuantVA:    9361   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1695  
+    Enron ||   VA(%): 0.15   ||    QuantVA:    14041   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1702  
+    Enron ||   VA(%): 0.2   ||    QuantVA:    18722   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1702  
+    Enron ||   VA(%): 0.25   ||    QuantVA:    23402   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1702  
+    Enron ||   VA(%): 0.3   ||    QuantVA:    28083   || quantAtributos: 55 || inst: 1702  ||  instComVA: 1702  
+     ||   VA(%): 0.05   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+     ||   VA(%): 0.1   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+     ||   VA(%): 0.15   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+     ||   VA(%): 0.2   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+     ||   VA(%): 0.25   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+     ||   VA(%): 0.3   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+    Corel5k ||   VA(%): 0.05   ||    QuantVA:    218250   || quantAtributos: 873 || inst: 5000  ||  instComVA: 5000  
+    Corel5k ||   VA(%): 0.05   ||    QuantVA:    218250   || quantAtributos: 873 || inst: 5000  ||  instComVA: 5000  
+     ||   VA(%): 0.05   ||    QuantVA:    0   || quantAtributos: 0 || inst: 0  ||  instComVA: 0  
+    CHD_49 ||   VA(%): 0.05   ||    QuantVA:    1526   || quantAtributos: 55 || inst: 555  ||  instComVA: 534  

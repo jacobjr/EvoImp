@@ -1,0 +1,6 @@
+    flags ||   VA(%): 0.05   ||    QuantVA:    252   || quantAtributos: 26 || inst: 194  ||  instComVA: 143  
+    flags ||   VA(%): 0.1   ||    QuantVA:    504   || quantAtributos: 26 || inst: 194  ||  instComVA: 178  
+    flags ||   VA(%): 0.15   ||    QuantVA:    756   || quantAtributos: 26 || inst: 194  ||  instComVA: 192  
+    flags ||   VA(%): 0.2   ||    QuantVA:    1008   || quantAtributos: 26 || inst: 194  ||  instComVA: 193  
+    flags ||   VA(%): 0.25   ||    QuantVA:    1261   || quantAtributos: 26 || inst: 194  ||  instComVA: 194  
+    flags ||   VA(%): 0.3   ||    QuantVA:    1513   || quantAtributos: 26 || inst: 194  ||  instComVA: 194  
