@@ -22,8 +22,7 @@ Multiple Imputation of Multi-label Classification Data With a Genetic Algorithm
 
 # Abstract
 
-Missing data is a prevalent problem that requires attention, as most data analysis techniques are unable to handle it. This is particularly critical in Multi-Label Classification (MLC), in which only a few studies have investigated missing data in this application domain. MLC differs from Single-Label Classification (SLC) by allowing an instance to be associated with multiple classes. Movie classification is a didactic example since it can be ``drama'' and ``bibliography'' simultaneously. One of the most usual missing data treatment methods is data imputation, which seeks plausible values to fill in the missing ones. In this scenario, we propose a novel imputation method based on a multi-objective genetic algorithm for optimizing multiple data imputations called Multiple Imputation of Multi-label Classification data with a genetic algorithm, or simply EvoImp. We applied the proposed method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios. The method was compared with other state-of-the-art imputation strategies, such as K-Means Imputation (KMI) and weighted K-Nearest Neighbors Imputation (WKNNI). The results proved that the proposed method outperformed the baseline in all the scenarios by achieving the best evaluation measures considering the Exact Match, Accuracy, and Hamming Loss. The superior results were constant in different dataset domains and sizes, demonstrating the EvoImp robustness. Thus, EvoImp represents a feasible solution to missing data treatment for multi-label learning.
-
+Missing data is a prevalent problem that requires attention, as most data analysis techniques are unable to handle it. This is particularly critical in Multi-Label Classification (MLC), where only a few studies have investigated missing data in this application domain. MLC differs from Single-Label Classification (SLC) by allowing an instance to be associated with multiple classes. Movie classification is a didactic example since it can be ''drama'' and ''bibliography'' simultaneously. One of the most usual missing data treatment methods is data imputation, which seeks plausible values to fill in the missing ones. In this scenario, we propose a novel imputation method based on a multi-objective genetic algorithm for optimizing multiple data imputations called Multiple Imputation of Multi-label Classification data with a genetic algorithm, or simply EvoImp. We applied the proposed method in multi-label learning and evaluated its performance using six synthetic databases, considering various missing values distribution scenarios. The method was compared with other state-of-the-art imputation strategies, such as K-Means Imputation (KMI) and weighted K-Nearest Neighbors Imputation (WKNNI). The results proved that the proposed method outperformed the baseline in all the scenarios by achieving the best evaluation measures considering the Exact Match, Accuracy, and Hamming Loss. The superior results were constant in different dataset domains and sizes, demonstrating the EvoImp robustness. Thus, EvoImp represents a feasible solution to missing data treatment for multi-label learning.
 #  If you use any of the resources available here, to cite this work, please use:
 
 > Paper
@@ -33,10 +32,7 @@ Jacob Junior, A. F. L., do Carmo, F. A., de Santana, A. L., Santana, E. E. C., &
 Antonio F. L. Jacob Jr., Fabrício A. do Carmo, Ádamo L. de Santana, Ewaldo Santana, & Fábio M. F. Lobato. (2023). Multi-Label Datasets with Missing Values [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7748933
 
 ~~~
-
-------------------------------------------
-***Directory description***
-------------------------------------------
+Directory description
 ~~~
 
 - src          --> This folder contains the Java code of GAMultImp and the libraries used.
