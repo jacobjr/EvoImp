@@ -27,7 +27,7 @@ Missing data is a prevalent problem that requires attention, as most data analys
 #  If you use any of the resources available here, to cite this work, please use:
 
 > Paper
-Jacob Junior, A. F. L., do Carmo, F. A., de Santana, A. L., Santana, E. E. C., & Lobato, F. M. F. (2024). EvoImp: Multiple Imputation of Multi-label Classification data with a genetic algorithm. Plos one, 19(1), e0297147.
+Jacob Junior, A. F. L., do Carmo, F. A., de Santana, A. L., Santana, E. E. C., & Lobato, F. M. F. (2024). EvoImp: Multiple Imputation of Multi-label Classification data with a genetic algorithm. Plos one, 19(1), e0297147. https://doi.org/10.1371/journal.pone.0297147
 
 > Dataset
 Antonio F. L. Jacob Jr., Fabrício A. do Carmo, Ádamo L. de Santana, Ewaldo Santana, & Fábio M. F. Lobato. (2023). Multi-Label Datasets with Missing Values [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7748933
